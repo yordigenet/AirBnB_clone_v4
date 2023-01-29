@@ -13,7 +13,7 @@ In this phase of  the  AirBnB clone project we took the entire Places listing to
 * [File Descriptions](#file-descriptions)
 * [Environment](#environment)
 * [Configuration Files](#configuration-files)
-* [Web Server Gateway Interface (WSGI)](#web-server-gateway-interface-(WSGI))
+* [Web Server Gateway Interface](#web-server-gateway-interface)
 * [Setup](#setup)
 * [Testing](#testing)
 * [Bugs](#bugs)
@@ -230,7 +230,6 @@ github  repo
 No known bugs at this time. 
 
 ## Authors
-<<<<<<< HEAD
 * Yordanos Girma - [Github](https://github.com/yordigenet) / [Twitter](https://twitter.com/Yordigenet)
 * Thabiso Dintwe - [Github](https://github.com/TNDTOPITO) / [Twitter](https://twitter.com/)
 * Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
