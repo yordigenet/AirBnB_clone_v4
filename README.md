@@ -230,6 +230,7 @@ github  repo
 No known bugs at this time. 
 
 ## Authors
+<<<<<<< HEAD
 * Yordanos Girma - [Github](https://github.com/yordigenet) / [Twitter](https://twitter.com/Yordigenet)
 * Thabiso Dintwe - [Github](https://github.com/TNDTOPITO) / [Twitter](https://twitter.com/)
 * Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
@@ -237,5 +238,15 @@ No known bugs at this time.
 * Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 * David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
+=======
+Yordanos Girma - [Github](https://github.com/yordigenet) / [Twitter](https://twitter.com/Yordigenet)
+Thabiso Dintwe - [Github](https://github.com/TNDTOPITO) / [Twitter](https://twitter.com)
+Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
+Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
+Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
+David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+
+Second part of Airbnb: Joann Vuong
+>>>>>>> 4b180b012265e47905dac89120abff630b3775e6
 ## License
 Public Domain. No copy write protection. 
