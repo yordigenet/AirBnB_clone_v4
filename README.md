@@ -85,7 +85,7 @@ The `gunicorn` command starts an instance of a Flask Application.
 
 ---
 
-### Web Server Gateway Interface (WSGI)
+### Web Server Gateway Interface
 
 All integration with gunicorn occurs with `Upstart` `.conf` files.  The python
 code for the WSGI is listed in the `/wsgi/` directory.  These python files run
