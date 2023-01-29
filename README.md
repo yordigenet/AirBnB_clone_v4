@@ -231,7 +231,7 @@ No known bugs at this time.
 
 ## Authors
 Yordanos Girma - [Github](https://github.com/yordigenet) / [Twitter](https://twitter.com/Yordigenet)
-Thabiso Dintwe - [Github](https://github.com/TNDTOPITO) / [Twitter](https://twitter.com/)
+Thabiso Dintwe - [Github](https://github.com/TNDTOPITO) / [Twitter](https://twitter.com)
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
