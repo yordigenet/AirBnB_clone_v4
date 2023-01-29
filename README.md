@@ -62,7 +62,7 @@ HBNB_MYSQL_HOST=localhost HBNB_MYSQL_DB=hbnb_test_db HBNB_TYPE_STORAGE=db \
   * __web static:__ [W3C Validator](https://validator.w3.org/)
   * __bash:__ ShellCheck 0.3.3
 
-<img src="https://github.com/yordigenet/AirBnB_clone_v4/other/hbnb_step5.png" />
+<img src="https://github.com/yordigenet/AirBnB_clone_v4/images/hbnb_step5.png" />
 
 ## Configuration Files
 
